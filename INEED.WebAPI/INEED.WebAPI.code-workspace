@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Controllers"
+		},
+		{
+			"path": "Dtos"
+		},
+		{
+			"path": "Helpers"
+		},
+		{
+			"path": "Models"
+		},
+		{
+			"path": "Repositories"
+		}
+	],
+	"settings": {}
+}
