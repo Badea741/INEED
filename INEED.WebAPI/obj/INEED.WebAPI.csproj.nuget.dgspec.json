@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mab/Desktop/INEED/INEED.WebAPI/INEED.WebAPI.csproj": {}
+    "/home/mab/Desktop/INEED/INEED/INEED.WebAPI/INEED.WebAPI.csproj": {}
   },
   "projects": {
-    "/home/mab/Desktop/INEED/INEED.WebAPI/INEED.WebAPI.csproj": {
+    "/home/mab/Desktop/INEED/INEED/INEED.WebAPI/INEED.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mab/Desktop/INEED/INEED.WebAPI/INEED.WebAPI.csproj",
+        "projectUniqueName": "/home/mab/Desktop/INEED/INEED/INEED.WebAPI/INEED.WebAPI.csproj",
         "projectName": "INEED.WebAPI",
-        "projectPath": "/home/mab/Desktop/INEED/INEED.WebAPI/INEED.WebAPI.csproj",
+        "projectPath": "/home/mab/Desktop/INEED/INEED/INEED.WebAPI/INEED.WebAPI.csproj",
         "packagesPath": "/home/mab/.nuget/packages/",
-        "outputPath": "/home/mab/Desktop/INEED/INEED.WebAPI/obj/",
+        "outputPath": "/home/mab/Desktop/INEED/INEED/INEED.WebAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mab/.nuget/NuGet/NuGet.Config"

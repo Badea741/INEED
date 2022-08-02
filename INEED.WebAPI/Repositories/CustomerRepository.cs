@@ -1,6 +1,5 @@
 using INEED.WebAPI.Helpers;
 using INEED.WebAPI.Models;
-using Microsoft.EntityFrameworkCore;
 namespace INEED.WebAPI.Repositories;
 public class CustomerRepo : ICustomerRepo, IDisposable
 {

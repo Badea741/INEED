@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tVboQH1g/kPhNrUYUvSQo9N8HH7JKj6OPx7qwOYEcD0so3dm8cheVQMt6A0PU9avDMZyGIfonT9TzZLh2NVk3w==",
+  "dgSpecHash": "m4e3CylD4hXlfUXy73JNauq6giDzNgKxLq6lfDQMzZ0INfZJXO9RsAgBqYT+W8/OVM+osJumh5YFs/NijLRj7A==",
   "success": true,
-  "projectFilePath": "/home/mab/Desktop/INEED/INEED.WebAPI/INEED.WebAPI.csproj",
+  "projectFilePath": "/home/mab/Desktop/INEED/INEED/INEED.WebAPI/INEED.WebAPI.csproj",
   "expectedPackageFiles": [
     "/home/mab/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
     "/home/mab/.nuget/packages/fluentvalidation/11.1.0/fluentvalidation.11.1.0.nupkg.sha512",
